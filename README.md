@@ -1,4 +1,4 @@
-# CryTek-TG
+#     MOHAMMAD GSR
 ============
 
-A Telegram Bot based on plugins using [tg](https://github.com/vysheng/tg).
+A Telegram @CREED_LUA.
